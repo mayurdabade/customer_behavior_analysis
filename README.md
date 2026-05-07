@@ -1,4 +1,4 @@
-##Customer Behavior Analysis Project
+Customer Behavior Analysis Project
 #Overview
 
 This project provides a comprehensive end-to-end analysis of customer behavior, designed to help businesses understand purchasing patterns and optimize marketing strategies. 
@@ -22,13 +22,11 @@ Gender and Age Data etc.
 
 The dataset was initially provided in CSV format and processed using Python and SQL Server before visualization in Power BI.
 
-#Tools & Technologies Used   #Tool	Purpose
-Python	                      Data cleaning and EDA
-Pandas	                      Data manipulation and preprocessing
-Jupyter Notebook	            Analysis environment
-SQL Server	                  Data storage and querying
-SQL	                          Data extraction and validation
-Power BI	                    Dashboard creation and visualization
+#Tools & Technologies Used
+Python (Pandas)
+Jupyter Notebook
+SQL Server
+Power BI
 
 #Project Workflow
 
