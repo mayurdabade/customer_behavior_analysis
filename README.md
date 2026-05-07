@@ -86,3 +86,7 @@ Sales performance tracking
 #Conclusion
 
 This project demonstrates an end-to-end data analytics workflow starting from raw CSV data to interactive business report. It showcases practical experience in Python, SQL Server, and Power BI while focusing on deriving actionable business insights from customer shopping behavior data.
+
+#REPORT
+<img width="1336" height="727" alt="image" src="https://github.com/user-attachments/assets/89844295-2a68-4ad8-848c-c0e642fac6a6" />
+
